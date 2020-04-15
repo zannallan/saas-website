@@ -12,6 +12,76 @@ header {
   background-position: center;
 }
 
+.features {
+  background-image: url(../images/top-view.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.features h2 {
+  color: #F2F2F2;
+  font-weight: 500;
+}
+
+.features .btn {
+  background-color: #04ADBF;
+  border-color: #04ADBF;
+}
+
+.features .btn:hover {
+  background-color: #1B49A6;
+  border-color: #1B49A6;
+  color: #f2f2f2;
+}
+
+.sign-in {
+  background-image: url(../images/man-in-office.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.sign-in .btn {
+  background-color: #1B49A6;
+  border-color: #1B49A6;
+}
+
+.sign-in .btn:hover {
+  background-color: #04ADBF;
+  border-color: #04ADBF;
+  color: #f2f2f2;
+}
+
+.sign-in h2 {
+  color: #1B49A6;
+}
+
+.sign-in .or {
+  font-weight: normal;
+}
+
+h1 {
+  color: #F2F2F2;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+}
+
+.banner h2 {
+  color: #ffffff;
+  font-family: Montserrat, sans-serif;
+  font-weight: lighter;
+}
+
+.banner .btn {
+  background-color: #1261A6;
+  border-color: #1261A6;
+}
+
+.banner .btn:hover {
+  background-color: #F2F2F2;
+  border-color: #F2F2F2;
+  color: #1261A6;
+}
+
 ol {
   color: #ffffff;
 }
@@ -21,12 +91,23 @@ ol a {
   text-decoration: none;
 }
 
+ol a:hover {
+  color: #04ADBF;
+  border-bottom: 2px solid #04ADBF;
+}
+
+footer ol a:hover {
+  color: #04ADBF;
+  border-bottom: none;
+}
+
 .btn {
   border-radius: 50px;
 }
 
 small {
   color: #ffffff;
+  font-weight: lighter;
 }
 
 footer {
