@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="414" height="150" viewBox="0 0 414 150">
+  <g id="Belt_Lock" data-name="Belt Lock" transform="translate(593.779 -202) rotate(90)">
+    <rect id="Rectangle_43" data-name="Rectangle 43" width="86" height="414" transform="translate(229 179.779)" fill="#0388a6"/>
+    <rect id="Rectangle_42" data-name="Rectangle 42" width="16" height="414" transform="translate(218 179.779)" fill="#04adbf"/>
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="75" cy="75" r="75" transform="translate(202 467.779) rotate(-90)" fill="#d9d9d9"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="75" cy="75" r="75" transform="translate(202 455.779) rotate(-90)" fill="#e2e2e2"/>
+    <g id="Keyhole" transform="translate(241.795 396.155) rotate(-90)">
+      <path id="Path_3" data-name="Path 3" d="M0,0" transform="translate(11.09 25.033)" fill="#b4b4b4" stroke="#d9d9d9" stroke-miterlimit="10" stroke-width="6"/>
+      <path id="Path_4" data-name="Path 4" d="M17.793,25.278c5.817-1.551,10.073-6.5,10.073-12.385C27.866,5.774,21.632,0,13.936,0S0,5.774,0,12.893A13,13,0,0,0,9.27,25.033" transform="translate(1.82)" fill="#b4b4b4" stroke="#d9d9d9" stroke-miterlimit="10" stroke-width="6"/>
+      <path id="Path_5" data-name="Path 5" d="M0,0" transform="translate(19.613 25.278)" fill="#b4b4b4" stroke="#d9d9d9" stroke-miterlimit="10" stroke-width="6"/>
+      <path id="Path_6" data-name="Path 6" d="M9.133,0,0,52.171H29.618L21.826.266" transform="translate(0 20.852)" fill="#b4b4b4" stroke="#d9d9d9" stroke-miterlimit="10" stroke-width="6"/>
+    </g>
+  </g>
+</svg>
