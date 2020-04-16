@@ -171,6 +171,31 @@ footer ol a:hover {
   border-bottom: none;
 }
 
+form {
+  background-color: #1261a6;
+  color: #f2f2f2;
+}
+
+form h2{
+  font-family: Montserrat, sans-serif;
+}
+
+form input {
+  background-color: #fff;
+}
+
+form .btn {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+  color: #04adbf;
+}
+
+form .btn:hover {
+  background-color: #04adbf;
+  border-color: #04adbf;
+  color: #f2f2f2;
+}
+
 .btn {
   border-radius: 50px;
 }
