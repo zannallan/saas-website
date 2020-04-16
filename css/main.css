@@ -3,101 +3,154 @@ html {
 }
 
 header {
-  background-color: #1261A6;
+  background-color: #1261a6;
 }
 
 .banner {
-  background-image: url(../images/hand-with-phone.jpg);
+  background-image: url("../images/hand-with-phone.jpg");
   background-size: cover;
   background-position: center;
 }
 
+.banner h2 {
+  color: #fff;
+  font-family: Montserrat, sans-serif;
+}
+
+.banner .btn {
+  background-color: #1261a6;
+  border-color: #1261a6;
+}
+
+.banner .btn:hover {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+  color: #1261a6;
+}
+
+.tour-banner {
+  background-image: url("../images/woman-on-laptop.jpg");
+  background-size: cover;
+  background-position: right;
+}
+
+.tour-banner h2 {
+  color: #fff;
+  font-family: Montserrat, sans-serif;
+}
+
+.tour-banner .btn {
+  background-color: #1261a6;
+  border-color: #1261a6;
+}
+
+.tour-banner .btn:hover {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+  color: #1261a6;
+}
+
+.logo {
+  max-width: 200px;
+}
+
+.social {
+  max-width: 300px;
+}
+
 .features {
-  background-image: url(../images/top-view.jpg);
+  background-image: url("../images/top-view.jpg");
   background-size: cover;
   background-position: center;
 }
 
 .features h2 {
-  color: #F2F2F2;
-  font-weight: 500;
+  color: #f2f2f2;
+  font-family: Montserrat, sans-serif;
 }
 
 .features .btn {
-  background-color: #04ADBF;
-  border-color: #04ADBF;
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+  color: #1b49a6;
 }
 
 .features .btn:hover {
-  background-color: #1B49A6;
-  border-color: #1B49A6;
+  background-color: #1b49a6;
+  border-color: #1b49a6;
+  color: #f2f2f2;
+}
+
+.tour-features {
+  background-color: #f2f2f2;
+  border-bottom: 3px solid #1b49a6;
+}
+
+.tour-features h2 {
+  color: #1b49a6;
+  font-family: Montserrat, sans-serif;
+}
+
+.tour-features p {
+  color: #1b49a6;
+  font-family: Montserrat, sans-serif;
+}
+
+.tour-features .btn {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+  color: #1b49a6;
+}
+
+.tour-features .btn:hover {
+  background-color: #1b49a6;
+  border-color: #1b49a6;
   color: #f2f2f2;
 }
 
 .sign-in {
-  background-image: url(../images/man-in-office.jpg);
+  background-image: url("../images/man-in-office.jpg");
   background-size: cover;
   background-position: center;
 }
 
 .sign-in .btn {
-  background-color: #1B49A6;
-  border-color: #1B49A6;
+  background-color: #1b49a6;
+  border-color: #1b49a6;
 }
 
 .sign-in .btn:hover {
-  background-color: #04ADBF;
-  border-color: #04ADBF;
+  background-color: #04adbf;
+  border-color: #04adbf;
   color: #f2f2f2;
 }
 
 .sign-in h2 {
-  color: #1B49A6;
-}
-
-.sign-in .or {
-  font-weight: normal;
+  color: #1b49a6;
+  font-family: Montserrat, sans-serif;
 }
 
 h1 {
-  color: #F2F2F2;
+  color: #f2f2f2;
   font-family: Montserrat, sans-serif;
-  font-weight: 500;
-}
-
-.banner h2 {
-  color: #ffffff;
-  font-family: Montserrat, sans-serif;
-  font-weight: lighter;
-}
-
-.banner .btn {
-  background-color: #1261A6;
-  border-color: #1261A6;
-}
-
-.banner .btn:hover {
-  background-color: #F2F2F2;
-  border-color: #F2F2F2;
-  color: #1261A6;
 }
 
 ol {
-  color: #ffffff;
+  color: #fff;
 }
 
 ol a {
-  color: #ffffff;
+  color: #fff;
   text-decoration: none;
 }
 
 ol a:hover {
-  color: #04ADBF;
-  border-bottom: 2px solid #04ADBF;
+  color: #04adbf;
+  border-bottom: 2px solid #04adbf;
 }
 
 footer ol a:hover {
-  color: #04ADBF;
+  color: #04adbf;
   border-bottom: none;
 }
 
@@ -106,10 +159,10 @@ footer ol a:hover {
 }
 
 small {
-  color: #ffffff;
-  font-weight: lighter;
+  color: #fff;
+  font-family: Montserrat, sans-serif;
 }
 
 footer {
-  background-color: #1261A6;
+  background-color: #1261a6;
 }
