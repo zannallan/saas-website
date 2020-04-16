@@ -114,15 +114,15 @@ td {
 }
 
 .tour-features .btn {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
-  color: #1b49a6;
-}
-
-.tour-features .btn:hover {
   background-color: #1b49a6;
   border-color: #1b49a6;
   color: #f2f2f2;
+}
+
+.tour-features .btn:hover {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+  color: #1b49a6;
 }
 
 .sign-in {
@@ -163,7 +163,6 @@ ol a {
 
 ol a:hover {
   color: #04adbf;
-  border-bottom: 2px solid #04adbf;
 }
 
 footer ol a:hover {
@@ -175,12 +174,17 @@ article h2 {
   color: #1261a6;
 }
 
+a {
+  text-decoration: none;
+}
+
 form {
   background-color: #1261a6;
   color: #f2f2f2;
 }
 
 form h2 {
+  color: #f2f2f2;
   font-family: Montserrat, sans-serif;
 }
 
