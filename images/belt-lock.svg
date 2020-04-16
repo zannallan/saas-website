@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="351" height="896" viewBox="0 0 351 896">
-  <g id="Belt_Lock" data-name="Belt Lock" transform="translate(-195.663 -179.779)">
-    <rect id="Rectangle_43" data-name="Rectangle 43" width="186" height="896" transform="translate(266.663 179.779)" fill="#0388a6"/>
-    <rect id="Rectangle_42" data-name="Rectangle 42" width="35" height="896" transform="translate(243.663 179.779)" fill="#04adbf"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="351" height="1458" viewBox="0 0 351 1458">
+  <g id="Belt_Lock" data-name="Belt Lock" transform="translate(-195.663 101.221)">
+    <rect id="Rectangle_43" data-name="Rectangle 43" width="186" height="1458" transform="translate(266.663 -101.221)" fill="#0388a6"/>
+    <rect id="Rectangle_42" data-name="Rectangle 42" width="35" height="1458" transform="translate(243.663 -101.221)" fill="#04adbf"/>
     <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="162.5" cy="162" rx="162.5" ry="162" transform="translate(195.663 465.779)" fill="#d9d9d9"/>
     <circle id="Ellipse_8" data-name="Ellipse 8" cx="162" cy="162" r="162" transform="translate(222.663 465.779)" fill="#e2e2e2"/>
     <g id="Keyhole" transform="translate(351.014 551.587)">
