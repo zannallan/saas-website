@@ -171,6 +171,10 @@ footer ol a:hover {
   border-bottom: none;
 }
 
+article h2 {
+  color: #1261a6;
+}
+
 form {
   background-color: #1261a6;
   color: #f2f2f2;
@@ -182,11 +186,13 @@ form h2 {
 
 form input {
   border-color: #04adbf;
+  background-color: #1261a6;
+  border-width: medium;
 }
 
 form .btn {
-  background-color: #04adbf;
-  border-color: #04adbf;
+  background-color: #0388A6;
+  border-color: #0388A6;
   color: #f2f2f2;
 }
 
