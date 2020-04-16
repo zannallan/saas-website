@@ -50,6 +50,23 @@ header {
   color: #1261a6;
 }
 
+caption {
+  color: #1b49a6;
+  font-family: Montserrat, sans-serif;
+}
+
+thead, tbody {
+  color: #1b49a6;
+}
+
+th {
+  border-bottom: 2px solid #1b49a6;
+}
+
+td {
+  border-bottom: 1px solid #1b49a6;
+}
+
 .logo {
   max-width: 200px;
 }
